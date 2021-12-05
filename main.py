@@ -1,7 +1,7 @@
 #demo program
 
 #import BurgerKingOrder class
-import BurgerKingOrder
+from Assignment10_1 import BurgerKingOrder
 
 #Creating an instance of BurgerKingOrder
 order = BurgerKingOrder()
